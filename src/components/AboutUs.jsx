@@ -5,7 +5,7 @@ function AboutUs() {
             <div className="row myRow">
                 <div className="aboutUsImage col-6">
                     <div className="ImageContainer">
-                        <img draggable={false} alt="myPhoto" className="aboutUsImageItem" src="/images/avatar.jpeg"></img>
+                        <img draggable={false} alt="Photo" className="aboutUsImageItem" src="/images/avatar.jpeg"></img>
                     </div>
                     
                 </div>
